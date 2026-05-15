@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dashboard.stock-screener.click">
+  <a href="https://stock-screener-app-casssdf7wcjmwbp5fevysf.streamlit.app">
     <img src="https://github.com/stock-screener-click/stock-screener-dashboard/raw/main/docs/screenshot.png" alt="Stock Screener dashboard" width="720"/>
   </a>
 </p>
