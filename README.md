@@ -8,6 +8,10 @@
 <p align="center">
   <a href="https://stock-screener-app-casssdf7wcjmwbp5fevysf.streamlit.app"><b>Live dashboard →</b></a>
   &nbsp;·&nbsp;
+    <a href="https://github.com/stock-screener-click/alpaca-python-trading-bot"><b>alpaca-python-trading-bot →</b></a>
+  &nbsp;·&nbsp;
+    <a href="https://github.com/stock-screener-click/etoro-python-trading-bot"><b>etoro-python-trading-bot →</b></a>
+  &nbsp;·&nbsp;
   <a href="https://rapidapi.com/stock-screener-stock-screener-default/api/stock-screener6"><b>Get the API →</b></a>
 </p>
 
@@ -46,13 +50,6 @@ for s in r.json()["screeners"][:5]:
 ```
 
 → **[Get a free API key](https://rapidapi.com/stock-screener-stock-screener-default/api/stock-screener6)**
-
-## Repos
-
-| Repo | What it is |
-|---|---|
-| [**stock-screener-dashboard**](https://github.com/stock-screener-click/stock-screener-dashboard) | Streamlit dashboard — reference implementation, deployable in 2 minutes |
-| [**stock-screener-python-quickstart**](https://github.com/stock-screener-click/stock-screener-python-quickstart) | ~30 lines of Python to get you from key → picks |
 
 ## Use cases
 
