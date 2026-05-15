@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dashboard.stock-screener.click"><b>Live dashboard →</b></a>
+  <a href="https://stock-screener-app-casssdf7wcjmwbp5fevysf.streamlit.app"><b>Live dashboard →</b></a>
   &nbsp;·&nbsp;
   <a href="https://rapidapi.com/stock-screener-stock-screener-default/api/stock-screener6"><b>Get the API →</b></a>
   &nbsp;·&nbsp;
