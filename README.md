@@ -9,14 +9,6 @@
   <a href="https://stock-screener-app-casssdf7wcjmwbp5fevysf.streamlit.app"><b>Live dashboard →</b></a>
   &nbsp;·&nbsp;
   <a href="https://rapidapi.com/stock-screener-stock-screener-default/api/stock-screener6"><b>Get the API →</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/stock-screener-click/stock-screener-dashboard"><b>Dashboard source →</b></a>
-</p>
-
-<p align="center">
-  <a href="https://stock-screener-app-casssdf7wcjmwbp5fevysf.streamlit.app">
-    <img src="https://github.com/stock-screener-click/stock-screener-dashboard/raw/main/docs/screenshot.png" alt="Stock Screener dashboard" width="720"/>
-  </a>
 </p>
 
 ---
