@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Daily-updated stock screeners with backtested returns.</b><br/>
-  19 institutional-grade strategies. One API. Real numbers, not promises.
+  20+ institutional-grade strategies. One API. Real numbers, not promises.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## What you get
 
-- **19 backtested screeners** — quality, value, momentum, dividend, GARP, fortress balance sheet, small-cap momentum, and more
+- **20+ backtested screeners** — quality, value, momentum, dividend, GARP, fortress balance sheet, small-cap momentum, and more
 - **Realized returns, not just lists** — every strategy ships with its actual 7d / 14d / 1m / 3m / 6m / 1y cohort returns
 - **Daily refresh** — picks update once per day, automatically
 - **Consensus picks** — see which tickers pass the most independent strategies on the same day
@@ -63,7 +63,7 @@ for s in r.json()["screeners"][:5]:
 ## Endpoints at a glance
 
 ```
-GET /stock-screeners                              # list all 19 strategies
+GET /stock-screeners                              # list all 20+ strategies
 GET /tickers/latest?screener_id=...               # current picks
 GET /tickers/popular                              # consensus watchlist
 GET /tickers/{ticker}/screeners                   # reverse lookup
